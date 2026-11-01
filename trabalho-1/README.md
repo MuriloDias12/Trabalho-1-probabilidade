@@ -4,7 +4,7 @@ Probabilidade e Estatística I – IFES Campus Serra – 2026/2
 > Simulador acadêmico - somente créditos fictícios
 
 ## Integrante
-- [SEU NOME COMPLETO] – [MATRÍCULA]
+- Murilo Dias de Oliveira – 20221bsi0099
 
 ## Requisitos
 - Python 3.10 ou superior (resultados gerados com Python 3.12.3)
@@ -40,4 +40,4 @@ Sementes: E1 = 2026; E2 = 10, 2026 e 123456; E3 = 42 (aplicada uma única vez, s
 - Validação automatizada: `testes.py` (pagamentos, lucro, semente, totais do E1/E3/E4 e caso-limite K = 4).
 
 ## Declaração de uso de IA
-[PREENCHER: por exemplo, "O assistente Claude (Anthropic) foi usado para gerar a primeira versão do código e dos testes. Eu revisei e executei o código, conferi os resultados com as contas de referência do enunciado (E[X] = −0,16; RTP = 84%; 92,4% na tabela +10%) e escrevi o relatório com minhas palavras."]
+O assistente Claude (Anthropic) foi usado para gerar a primeira versão do código e dos testes. Eu revisei e executei o código, conferi os resultados com as contas de referência do enunciado (E[X] = −0,16; RTP = 84%; 92,4% na tabela +10%) e escrevi o relatório com minhas palavras.
