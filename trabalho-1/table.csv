@@ -1,0 +1,2 @@
+column.name*,column.displayName,column.description,column.dataTypeDisplay,column.dataType*,column.arrayDataType,column.dataLength,column.tags,column.glossaryTerms
+user_id,USER ID,`user_id` column is the primary key and contains unique user ID.,array<int>,BLOB,BLOB,36,`PII.Sensitive`,`Glossary.GlossaryTerm1`

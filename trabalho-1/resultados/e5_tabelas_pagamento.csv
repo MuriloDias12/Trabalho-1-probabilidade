@@ -1,0 +1,3 @@
+configuracao,prob_premio_teorica_%,freq_premio_observada_%,premio_medio_por_rodada,premio_medio_quando_premiado,lucro_esperado_teorico,lucro_medio_observado,RTP_teorico_%,RTP_observado_%
+Base,4.0,4.12,0.8685,21.0801,-0.16,-0.1315,84.0,86.85
+Prêmios +10%,4.0,4.12,0.9554,23.1881,-0.076,-0.0447,92.4,95.53

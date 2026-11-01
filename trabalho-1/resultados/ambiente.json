@@ -1,0 +1,41 @@
+{
+  "aviso": "Simulador acadêmico - somente créditos fictícios",
+  "data_execucao": "2026-10-28T13:49:57",
+  "python": "3.14.5",
+  "implementacao": "CPython",
+  "sistema": "Windows-11-10.0.22631-SP0",
+  "gerador": "random.Random (biblioteca padrão; Mersenne Twister MT19937)",
+  "sorteio": "random.Random.randrange(5) para cada rolo",
+  "matplotlib": "3.11.2",
+  "sementes": {
+    "E1": 2026,
+    "E2": [
+      10,
+      2026,
+      123456
+    ],
+    "E3": 42,
+    "E4": "reutiliza E1",
+    "E5": "reutiliza E1"
+  },
+  "parametros": {
+    "aposta": 1,
+    "tabela_base": {
+      "A": 5,
+      "B": 10,
+      "C": 15,
+      "D": 25,
+      "E": 50
+    },
+    "tabela_mais_10": {
+      "A": 5.5,
+      "B": 11,
+      "C": 16.5,
+      "D": 27.5,
+      "E": 55
+    },
+    "E3_saldo_inicial": 100,
+    "E3_max_rodadas": 500,
+    "E3_participantes": 100
+  }
+}

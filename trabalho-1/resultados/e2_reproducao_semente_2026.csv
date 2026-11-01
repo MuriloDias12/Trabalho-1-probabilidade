@@ -1,0 +1,11 @@
+rodada,linha_execucao_1,X_execucao_1,linha_execucao_2,X_execucao_2,igual
+1,BDA,-1,BDA,-1,True
+2,ABC,-1,ABC,-1,True
+3,AAA,4,AAA,4,True
+4,EAA,-1,EAA,-1,True
+5,EAE,-1,EAE,-1,True
+6,CBA,-1,CBA,-1,True
+7,BBD,-1,BBD,-1,True
+8,BEB,-1,BEB,-1,True
+9,EDC,-1,EDC,-1,True
+10,EDD,-1,EDD,-1,True

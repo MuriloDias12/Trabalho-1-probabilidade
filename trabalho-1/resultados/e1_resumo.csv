@@ -1,0 +1,2 @@
+N,soma_contagens,lucro_medio,lucro_esperado_teorico,RTP_observado_%,RTP_teorico_%,prop_rodadas_premiadas_%,prob_premio_teorica_%,desvio_padrao_amostral_s,desvio_padrao_teorico
+10000,10000,-0.1315,-0.16,86.85,84.0,4.12,4.0,5.275,5.2052
